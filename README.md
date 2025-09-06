@@ -364,4 +364,4 @@ Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus
 *© 2024 - Portfolio Website. Tous droits réservés.*
 
 </div>
-EOF
+
