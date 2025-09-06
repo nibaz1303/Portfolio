@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "title": "Nihal Baz | Étudiante en Master Informatique",
+    "description": "Portfolio de Nihal Baz – Étudiante en Master Informatique (M1), licence (L3) validée. Projets en C, Java, Python, web, compilation et développement serveur."
+  },
+  "personal": {
+    "name": "Nihal Baz",
+  "title": "Étudiante en Master Informatique (M1)",
+    "location": "Clermont-Ferrand, France",
+  "avatar": "/nihal.jpg",
+    "email": "nihalbaz156@gmail.com",
+    "phone": "+33 7 66 52 72 09",
+    "workingHours": "Disponible en journée (UTC+1)",
+    "availableForWork": true,
+    "badges": [
+      "Analyse",
+      "Travail d'équipe",
+      "Communication",
+      "C",
+      "Python",
+      "Java",
+      "HTML"
+    ],
+    "social": [
+      { "platform": "GitHub", "url": "https://github.com/nibaz1303", "icon": "Github" },
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/nihal-baz-b29a1b264/", "icon": "Linkedin" }
+    ]
+  },
+  "about": {
+  "bio": "Licence Informatique (L3) validée à l'Université Clermont-Auvergne, je poursuis désormais un Master Informatique (M1). Motivée et déterminée, j'approfondis mes compétences en développement logiciel, algorithmique, architecture et conception de systèmes tout en cherchant des opportunités de stage ou projets avancés.",
+    "focus": [
+      "Préparation d'un dossier solide pour intégrer un Master en Informatique",
+      "Renforcement des bases en algorithmique, structures de données et paradigmes de programmation",
+      "Réalisation de projets académiques concrets (compilateur, jeux logiques, serveur Java/Spark)"
+    ],
+    "languages": [
+      { "name": "Français", "proficiency": "Langue maternelle", "level": 100, "flag": "��" },
+      { "name": "Anglais", "proficiency": "Bon niveau", "level": 70, "flag": "��" },
+      { "name": "Arabe", "proficiency": "Intermédiaire", "level": 60, "flag": "��" },
+      { "name": "Allemand", "proficiency": "Notions", "level": 30, "flag": "🇩🇪" }
+    ],
+    "interests": ["Développement logiciel", "Architecture", "Algorithmique", "Programmation système", "Apprentissage continu"]
+  },
+  "navigation": [
+    { "label": "Accueil", "href": "/" },
+    { "label": "Expériences", "href": "#experience" },
+    { "label": "Formation", "href": "#credentials" },
+    { "label": "Compétences", "href": "#skills" },
+    { "label": "Projets", "href": "#projects" }
+  ],
+  "experience": [
+    {
+      "title": "Projet académique : Compilateur MVaP",
+      "company": "Université Clermont-Auvergne",
+      "period": "2024",
+      "description": "Implémentation d'un compilateur traduisant un langage source simplifié vers du code MVaP.",
+      "achievements": ["Analyse lexicale et syntaxique", "Génération de code MVaP"],
+      "technologies": ["Java", "Compilation", "Structures de données"]
+    },
+    {
+      "title": "Projet académique : Jeu du Taquin",
+      "company": "Université Clermont-Auvergne",
+      "period": "2024",
+      "description": "Réalisation du jeu du Taquin (puzzle 15) en langage C avec gestion des mouvements.",
+      "achievements": ["Gestion de la grille et des déplacements", "Validation des états"],
+      "technologies": ["C", "Algorithmique"]
+    },
+    {
+      "title": "Projet académique : Master Mind",
+      "company": "Université Clermont-Auvergne",
+      "period": "2024",
+      "description": "Implémentation du jeu Master Mind en Java (logique et feedback couleurs/positions).",
+      "achievements": ["Boucle de jeu complète", "Retour d'indice (bien placé / mal placé)"],
+      "technologies": ["Java", "POO"]
+    }
+  ],
+  "credentials": {
+    "certifications": [],
+    "education": [
+      { "degree": "Brevet des collèges (mention Assez Bien)", "institution": "", "year": "2018", "logo": "/placeholder-logo.png" },
+      { "degree": "Baccalauréat général (Maths-Physique, mention Assez Bien)", "institution": "Lycée Godefroy de Bouillon", "year": "2021", "logo": "/placeholder-logo.png" },
+      { "degree": "Licence Maths-Informatique L1", "institution": "Université Clermont-Auvergne", "year": "2021-2022", "logo": "/placeholder-logo.png" },
+      { "degree": "Licence Maths-Informatique L1 (redoublée)", "institution": "Université Clermont-Auvergne", "year": "2022-2023", "logo": "/placeholder-logo.png" },
+      { "degree": "Licence Informatique L2", "institution": "Université Clermont-Auvergne", "year": "2023-2024", "logo": "/placeholder-logo.png" },
+  { "degree": "Licence Informatique L3 (validée)", "institution": "Université Clermont-Auvergne", "year": "2024-2025", "logo": "/placeholder-logo.png" },
+  { "degree": "Master Informatique M1 (en cours)", "institution": "Université Clermont-Auvergne", "year": "2025-2026", "logo": "/placeholder-logo.png" }
+    ],
+    "skills": [
+      "Analyse",
+      "Travail d'équipe",
+      "Communication",
+      "C",
+      "Python",
+      "Java",
+      "HTML"
+    ]
+  },
+  "technicalSkills": {
+    "development": ["C", "Python", "Java", "HTML", "CSS", "Spark", "Gradle"],
+    "uxMethods": ["Algorithmique", "Structures de données", "Compilation basique"],
+    "softSkills": ["Capacité d'analyse", "Travail en équipe", "Communication"]
+  }
+}
